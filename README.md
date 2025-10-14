@@ -1,4 +1,4 @@
-# Port Scanner
+# PortGuard
 
 **Scanner.py** — a educational port scanner (python).  
 This repository contains a  port scanner for learning and testing network behavior on systems you own or have written permission to test.
